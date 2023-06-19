@@ -1,1 +1,15 @@
-.Task {}
+.Task {
+    border-bottom: 1px solid gray;
+    padding: 5px;
+}
+.ButtonGroup{
+    float: right;
+}
+.TaskDone{
+    color: #d9534f;
+    text-decoration: line-through;
+}
+.TaskText{
+    font-weight: bold;
+    color:rgb(47, 3, 88);
+}
